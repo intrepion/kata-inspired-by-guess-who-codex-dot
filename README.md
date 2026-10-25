@@ -1,5 +1,9 @@
 # The Lantern Lineup
 
+## Play online
+
+[Play The Lantern Lineup](https://intrepion.github.io/kata-inspired-by-guess-who-codex-dot/) — free, playable in your browser.
+
 A warm, original browser deduction game inspired by the classic secret-character format. Meet 24 illustrated neighbors, ask yes/no questions, flip away unlikely faces, and name the secret before the Archivist names yours.
 
 ## Play locally
