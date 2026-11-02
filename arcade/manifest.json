@@ -1,6 +1,53 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-guess-who-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-guess-who-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "564e8b0ab24d18302f866501ee010b71bc443cca840458df58652bcb2e12486f",
+      "alt": "The Lantern Lineup gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "aa3572e3c35b0e6c13eb1091e0cffcaf2dff3a743d42337815ad0337b8d316d4",
+        "captureCommit": "53dbc13db0015ee42549433d07445fbadda78a41",
+        "workflowRunId": "41392721339",
+        "inputHashes": {
+          "index.html": "d6d1456eaa83f601736b3f6cc4203af91b504502f4cad461552dfbf748969fcf",
+          "styles.css": "65ec569a5a0c6c4be26d79183b5ca214e85b7adaf9ca5453c668a773ee7d6857",
+          "game.js": "c8e680147dcb68124f29f181ac34450f044755877fc7dffdfecf914adadfa940",
+          "engine.js": "6d034f54c4445245ae5219104484f407d28ffd8fa3bbfe9413a5f130aaa8f367",
+          "portraits.js": "e585b387ff70dc0266db5c494c5219fc18c4693aa4d384aec90b50ccf9c82e2b",
+          "icon.svg": "18d48bb25fb2caa42de96948f4179507eadd4bd92395e81e9c0afb7dc7afcea6"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "05e8d8e0d4f2777c3bc9fc67242cc7f6c5d9ceca6d093febe8ae4cce6904807a"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "d3756ae13473e44fd8c3d076b9f836967e861756f41bd2a43cb04101263bab36",
+      "alt": "The Lantern Lineup gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "b1addc0b92b412f5829dc975ba4ad07b389e23ac73a0641acef8aea1f9089cdb",
+        "captureCommit": "53dbc13db0015ee42549433d07445fbadda78a41",
+        "workflowRunId": "41392721339",
+        "inputHashes": {
+          "index.html": "d6d1456eaa83f601736b3f6cc4203af91b504502f4cad461552dfbf748969fcf",
+          "styles.css": "65ec569a5a0c6c4be26d79183b5ca214e85b7adaf9ca5453c668a773ee7d6857",
+          "game.js": "c8e680147dcb68124f29f181ac34450f044755877fc7dffdfecf914adadfa940",
+          "engine.js": "6d034f54c4445245ae5219104484f407d28ffd8fa3bbfe9413a5f130aaa8f367",
+          "portraits.js": "e585b387ff70dc0266db5c494c5219fc18c4693aa4d384aec90b50ccf9c82e2b",
+          "icon.svg": "18d48bb25fb2caa42de96948f4179507eadd4bd92395e81e9c0afb7dc7afcea6"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "05e8d8e0d4f2777c3bc9fc67242cc7f6c5d9ceca6d093febe8ae4cce6904807a"
+      }
+    }
+  ]
 }

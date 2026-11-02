@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "d33d84bb1ca32f1f229feb64f4e14c41ff34ef41",
+  "sourceCommit": "53dbc13db0015ee42549433d07445fbadda78a41",
+  "runId": "41392721339",
+  "url": "http://127.0.0.1:4193/",
+  "inputs": {
+    "index.html": "d6d1456eaa83f601736b3f6cc4203af91b504502f4cad461552dfbf748969fcf",
+    "styles.css": "65ec569a5a0c6c4be26d79183b5ca214e85b7adaf9ca5453c668a773ee7d6857",
+    "game.js": "c8e680147dcb68124f29f181ac34450f044755877fc7dffdfecf914adadfa940",
+    "engine.js": "6d034f54c4445245ae5219104484f407d28ffd8fa3bbfe9413a5f130aaa8f367",
+    "portraits.js": "e585b387ff70dc0266db5c494c5219fc18c4693aa4d384aec90b50ccf9c82e2b",
+    "icon.svg": "18d48bb25fb2caa42de96948f4179507eadd4bd92395e81e9c0afb7dc7afcea6"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "lineup-01.png",
+    "lineup-02.png"
+  ]
+}
