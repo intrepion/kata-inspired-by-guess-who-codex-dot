@@ -44,3 +44,7 @@ Open `http://127.0.0.1:55603/tests/browser.html` and click **Run browser checks*
 The runtime has zero external dependencies. `engine.js` owns rules and AI; `portraits.js` draws vector faces; `game.js` connects controls to rules. `CONTEXT.md` defines domain language.
 
 MIT licensed. `.gitignore` includes complete official GitHub `main` Global/Linux, Global/Windows and Global/macOS templates, also preserved byte-for-byte in `docs/gitignore/`. They were retrieved on 2026-10-22 from [github/gitignore](https://github.com/github/gitignore/tree/main/Global).
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
